@@ -1,4 +1,4 @@
-- Aficionado a la programación 
+- Aficionado a la programación
 
 <!---
 Brigantium/Brigantium is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
