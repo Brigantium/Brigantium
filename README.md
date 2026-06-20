@@ -5,10 +5,13 @@ Interesado de la Historia, estudiante de Matemáticas, aficionado a la programac
 # Educación:
 
 - **Máster en Técnicas Estadísticas**: (por la Universidad de Santiago de Compostela). _Duración_: 2025 - presente.
-  - _Nota media_: 9.3125 (12 matrículas de honor + 1 matrícula por cuarto mejor expediente).
+  - _Nota media_: 8.91.
+  - 1 matrícula de honor. 
 
 - **Grado de Matemáticas** (por la Universidad de Santiago de Compostela). _Duración_: 2021 - 2025.
-  - _Nota media_: 8.91. (1 matrícula de honor). 
+  - _Nota media_: 9.3125
+  - 12 matrículas de honor + 1 matrícula por cuarto mejor expediente. 
+
 
 # Habilidades:
 
