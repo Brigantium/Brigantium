@@ -37,7 +37,10 @@ Interesado de la Historia, estudiante de Matemáticas, aficionado a la programac
 
 - Co-creador de un de R con funciones en C para el ámbito de la regresión modal, véase en [github](https://github.com/Brigantium/MRpms)
  
-- Trabajo Fin de Grado con matrícula de honor en el campo del Análisis Funcional,véase en [github](https://brigantium.github.io/TFG/).
+- Trabajo Fin de Grado con matrícula de honor en el campo del Análisis Funcional,véase en [github](https://brigantium.github.io/TFG/) —para la versión Web—, o [Minerva](https://hdl.handle.net/10347/46755).
 
 - Análisis y comparación computacional de distintas formulaciones para el problema del viajante (TSP, *Travelling Salesman Problem*) y el problema del viajante de Steiner (STSP, *Steiner Travelling Salesman Problem*), véase en [github](https://github.com/danilugaresi/tsp-stsp-formulations).
+
+- Charla en el Seminario de Iniciación a la Investigación organizado por el [CITMAga](https://citmaga.gal/), véase el [póster](https://citmaga.gal/w/entre-%C3%81lgebra-y-an%C3%A1lisis-bases-de-schauder).
+
 
